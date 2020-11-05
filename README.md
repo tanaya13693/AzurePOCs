@@ -1,5 +1,3 @@
 # AzurePOCs
-Hands-on Azure services 
 
-
-In progress...
+1. Provisioning Azure VMs
