@@ -1,3 +1,5 @@
+#Proviiosning using Azure CLI. With Powershell it is similar.
+
 #Create RG
 az group create --name "psdemo-rg" --location "westus"
 az group list -o table
